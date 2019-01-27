@@ -1,0 +1,11 @@
+G:\.net core\CMS\git\Sample05\Sample05\bin\Debug\netcoreapp2.1\Sample05.deps.json
+G:\.net core\CMS\git\Sample05\Sample05\bin\Debug\netcoreapp2.1\Sample05.runtimeconfig.json
+G:\.net core\CMS\git\Sample05\Sample05\bin\Debug\netcoreapp2.1\Sample05.runtimeconfig.dev.json
+G:\.net core\CMS\git\Sample05\Sample05\bin\Debug\netcoreapp2.1\Sample05.dll
+G:\.net core\CMS\git\Sample05\Sample05\bin\Debug\netcoreapp2.1\Sample05.pdb
+G:\.net core\CMS\git\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.csprojAssemblyReference.cache
+G:\.net core\CMS\git\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.csproj.CoreCompileInputs.cache
+G:\.net core\CMS\git\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.AssemblyInfoInputs.cache
+G:\.net core\CMS\git\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.AssemblyInfo.cs
+G:\.net core\CMS\git\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.dll
+G:\.net core\CMS\git\Sample05\Sample05\obj\Debug\netcoreapp2.1\Sample05.pdb
